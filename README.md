@@ -3,7 +3,7 @@
 <div align="center" style="margin: 30px;">
   <a href="https://frvgs.com/">
     <img src="https://cdn.frvgs.com/banner_new.png" align="center" />
-    <img src="https://cdn.frvgs.com/vortex/vortex_meteor/meteor-bp-01.png" align="center" />
+    <img src="https://cdn.frvgs.com/vortex/meteor_github.jpg" align="center" />
   </a>
   <br />
   <div align="center">
@@ -25,7 +25,7 @@
 
 </div>
 
-[![Video Preview](https://cdn.frvgs.com/vortex/vortex_meteor/meteor-bp-01.png)](https://www.youtube.com/watch?v=hqWvavn881c)
+[![Video Preview](https://cdn.frvgs.com/vortex/meteor_github.jpg)](https://www.youtube.com/watch?v=hqWvavn881c)
 
 ## ℹ️ Vehicle Infos
 Game Name : `V-Meteor FE`
