@@ -3,7 +3,6 @@
 <div align="center" style="margin: 30px;">
   <a href="https://frvgs.com/">
     <img src="https://cdn.frvgs.com/banner_new.png" align="center" />
-    <img src="https://cdn.frvgs.com/vortex/meteor_github.jpg" align="center" />
   </a>
   <br />
   <div align="center">
